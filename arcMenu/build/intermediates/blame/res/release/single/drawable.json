@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/gesuwall/droid-projects/PrivateMessagingMenu/arcMenu/build/intermediates/res/merged/release/drawable/composer_icn_plus_normal.png",
+        "source": "/home/gesuwall/droid-projects/PrivateMessagingMenu/arcMenu/src/main/res/drawable/composer_icn_plus_normal.png"
+    },
+    {
+        "merged": "/home/gesuwall/droid-projects/PrivateMessagingMenu/arcMenu/build/intermediates/res/merged/release/drawable/composer_button_normal.png",
+        "source": "/home/gesuwall/droid-projects/PrivateMessagingMenu/arcMenu/src/main/res/drawable/composer_button_normal.png"
+    },
+    {
+        "merged": "/home/gesuwall/droid-projects/PrivateMessagingMenu/arcMenu/build/intermediates/res/merged/release/drawable/composer_icn_plus.xml",
+        "source": "/home/gesuwall/droid-projects/PrivateMessagingMenu/arcMenu/src/main/res/drawable/composer_icn_plus.xml"
+    },
+    {
+        "merged": "/home/gesuwall/droid-projects/PrivateMessagingMenu/arcMenu/build/intermediates/res/merged/release/drawable/composer_icn_plus_pressed.png",
+        "source": "/home/gesuwall/droid-projects/PrivateMessagingMenu/arcMenu/src/main/res/drawable/composer_icn_plus_pressed.png"
+    },
+    {
+        "merged": "/home/gesuwall/droid-projects/PrivateMessagingMenu/arcMenu/build/intermediates/res/merged/release/drawable/my_button.xml",
+        "source": "/home/gesuwall/droid-projects/PrivateMessagingMenu/arcMenu/src/main/res/drawable/my_button.xml"
+    },
+    {
+        "merged": "/home/gesuwall/droid-projects/PrivateMessagingMenu/arcMenu/build/intermediates/res/merged/release/drawable/composer_button_pressed.png",
+        "source": "/home/gesuwall/droid-projects/PrivateMessagingMenu/arcMenu/src/main/res/drawable/composer_button_pressed.png"
+    },
+    {
+        "merged": "/home/gesuwall/droid-projects/PrivateMessagingMenu/arcMenu/build/intermediates/res/merged/release/drawable/composer_button.xml",
+        "source": "/home/gesuwall/droid-projects/PrivateMessagingMenu/arcMenu/src/main/res/drawable/composer_button.xml"
+    }
+]

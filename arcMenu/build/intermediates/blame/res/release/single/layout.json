@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/gesuwall/droid-projects/PrivateMessagingMenu/arcMenu/build/intermediates/res/merged/release/layout/arc_menu.xml",
+        "source": "/home/gesuwall/droid-projects/PrivateMessagingMenu/arcMenu/src/main/res/layout/arc_menu.xml"
+    },
+    {
+        "merged": "/home/gesuwall/droid-projects/PrivateMessagingMenu/arcMenu/build/intermediates/res/merged/release/layout/ray_menu.xml",
+        "source": "/home/gesuwall/droid-projects/PrivateMessagingMenu/arcMenu/src/main/res/layout/ray_menu.xml"
+    }
+]

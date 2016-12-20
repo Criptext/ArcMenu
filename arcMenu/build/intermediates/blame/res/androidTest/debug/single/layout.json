@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/gesuwall/droid-projects/PrivateMessagingMenu/arcMenu/build/intermediates/res/merged/androidTest/debug/layout/arc_menu.xml",
+        "source": "/home/gesuwall/droid-projects/PrivateMessagingMenu/arcMenu/build/intermediates/bundles/debug/res/layout/arc_menu.xml"
+    },
+    {
+        "merged": "/home/gesuwall/droid-projects/PrivateMessagingMenu/arcMenu/build/intermediates/res/merged/androidTest/debug/layout/ray_menu.xml",
+        "source": "/home/gesuwall/droid-projects/PrivateMessagingMenu/arcMenu/build/intermediates/bundles/debug/res/layout/ray_menu.xml"
+    }
+]

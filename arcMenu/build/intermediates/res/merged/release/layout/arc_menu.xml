@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <com.criptext.ArcLayout
+        xmlns:custom="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/item_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        custom:childSize="48dp"
+        custom:fromDegrees="270.0"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        custom:toDegrees="180.0" />	
+    <FrameLayout
+        android:id="@+id/control_layout"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true">
+
+    </FrameLayout>
+    <ImageView 
+        android:id="@+id/picture"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:paddingTop="6dp"
+	    android:paddingBottom="0dp"
+        android:paddingLeft="5dp"
+        android:paddingRight="3dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"/>
+
+</merge>
