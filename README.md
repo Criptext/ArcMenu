@@ -17,9 +17,18 @@ Open state (after pressing):
 
 ## Usage
 
-Create a new instance of `ArcMenu`, add the drawables for the button and each
-item, as well as the callbacks to execute when each is selected. Afterwards add
-it to your layout.
+Add this dependency to your project with jitpack
+
+```groovy
+dependencies {
+        compile 'com.github.Criptext:ArcMenu:edfb8b5e50'
+} 
+```
+
+
+In your activity or fragment, create instance of `ArcMenu`, add the drawables 
+for the button and each item, as well as the callbacks to execute when each is 
+selected. Afterwards add it to your layout.
 
 ```java
 @Override
